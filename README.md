@@ -2,7 +2,7 @@
 #### Computer Science student at University of Brasilia
 Full-stack web developer at CJR
 ```python
-from laranjeiras import Fluminense Supporter
+from fluminense import Fluminense_Supporter
 
 class Lucas_Lima(Fluminense_Supporter):
   def __init__(self):
