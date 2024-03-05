@@ -2,8 +2,9 @@
 #### Computer Science student at University of Brasilia
 Full-stack web developer at CJR
 ```python
-class Lucas_Lima():
+class Lucas_Lima(Fluminense_Supporter):
   def __init__(self):
+    super.__init__()
     self._name: "Lucas Gabriel de Oliveira Lima"
     self._age: 18
     self._location: "Ocidental City, Goias, Brazil 🇧🇷"
@@ -15,7 +16,6 @@ class Lucas_Lima():
       "Data Science",
     ]
     self._programming_languages: ["JavaScript", "C++", "Python", "Java", "Go"]
-    self._I_support: "Fluminense Futebol Clube"
 ```
 
 <br>
