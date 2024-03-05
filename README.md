@@ -13,14 +13,15 @@ class Lucas_Lima():
       "Competitive Programming",
       "Graphics Computation",
       "Data Science",
-      ]
+    ]
     self._programming_languages: ["JavaScript", "C++", "Python", "Java", "Go"]
     self._I_support: "Fluminense Futebol Clube"
 ```
 
+<br>
+Technologies I use every day or study:
 
-#### technologies I use every day or study:
-<div><br>
+<div id="techs"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
