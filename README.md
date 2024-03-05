@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas Lima 👋
 #### Computer Science student at University of Brasilia
-Full-Stack web developer at CJR
+Full-stack web developer at CJR
 ```python
 class Lucas():
   def __init__(self):
