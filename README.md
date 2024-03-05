@@ -2,19 +2,20 @@
 #### Computer Science student at University of Brasilia
 Full-stack web developer at CJR
 ```python
-class Lucas():
+class Lucas_Lima():
   def __init__(self):
     self._name: "Lucas Gabriel de Oliveira Lima"
     self._age: 18
     self._location: "Ocidental City, Goias, Brazil 🇧🇷"
     self._interests: [
-      'Software Engineering',
-      'Web Development',
-      'Competitive Programming',
-      'Graphics Computation',
-      'Data Science',
+      "Software Engineering",
+      "Web Development",
+      "Competitive Programming",
+      "Graphics Computation",
+      "Data Science",
       ]
-    self._programming_languages: ['JavaScript', 'C++', 'Python', 'Java', 'Go']
+    self._programming_languages: ["JavaScript", "C++", "Python", "Java", "Go"]
+    self._I_support: "Fluminense Futebol Clube"
 ```
 
 
