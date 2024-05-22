@@ -20,6 +20,7 @@ class Lucas_Lima(Fluminense_Supporter):
       "Data Science",
     ]
     self._programming_languages: ["JavaScript", "C++", "Python", "Java", "Go"]
+    self._codeforces: "lucasg05"
 ```
 
 <br>
