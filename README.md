@@ -6,7 +6,7 @@ from Fluminense import Fluminense_Supporter
 
 class Lucas_Lima(Fluminense_Supporter):
   def __init__(self):
-    super.__init__()
+    super().__init__()
     self._name: "Lucas Gabriel de Oliveira Lima"
     self._age: 19
     self._university: "University of Brasilia - UnB"
