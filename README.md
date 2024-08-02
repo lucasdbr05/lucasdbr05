@@ -7,20 +7,20 @@ from Fluminense import Fluminense_Supporter
 class Lucas_Lima(Fluminense_Supporter):
   def __init__(self):
     super().__init__()
-    self._name: "Lucas Gabriel de Oliveira Lima"
-    self._age: 19
-    self._university: "University of Brasilia - UnB"
-    self._undergraduation: "Computer Science"
-    self._location: "Ocidental City, Goias, Brazil 🇧🇷"
-    self._interests: [
+    self._name= "Lucas Gabriel de Oliveira Lima"
+    self._age= 19
+    self._university= "University of Brasilia - UnB"
+    self._undergraduation= "Computer Science"
+    self._location= "Ocidental City, Goias, Brazil 🇧🇷"
+    self._interests= [
       "Software Engineering",
       "Web Development",
       "Competitive Programming",
       "Graphics Computation",
       "Data Science",
     ]
-    self._programming_languages: ["JavaScript", "C++", "Python", "Java", "Go"]
-    self._codeforces: "lucasg05"
+    self._programming_languages= ["JavaScript", "C++", "Python", "Java", "Go"]
+    self._codeforces= "lucasg05"
 ```
 
 <br>
