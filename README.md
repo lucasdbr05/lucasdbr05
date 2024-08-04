@@ -20,6 +20,7 @@ class Lucas_Lima(Fluminense_Supporter):
       "Data Science",
     ]
     self._programming_languages= [
+      "TypeScript",
       "JavaScript",
       "C++",
       "Python",
