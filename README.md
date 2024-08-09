@@ -23,6 +23,7 @@ class Lucas_Lima(Fluminense_Supporter):
       "TypeScript",
       "JavaScript",
       "C++",
+      "C#",
       "Python",
       "Java",
       "Go",
