@@ -14,6 +14,7 @@ class Lucas_Lima(Fluminense_Supporter):
     self._location= "Ocidental City, Goias, Brazil 🇧🇷"
     self._interests= [
       "Software Engineering",
+      "Artificial Intelligence",
       "Web Development",
       "Competitive Programming",
       "Graphics Computation",
@@ -27,6 +28,7 @@ class Lucas_Lima(Fluminense_Supporter):
       "Python",
       "Java",
       "Go",
+      "R",
     ]
     self._codeforces= "lucasg05"
 ```
