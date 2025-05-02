@@ -1,6 +1,6 @@
-## Hi, I'm Lucas Lima 👋
+## 👋 Hi, I'm Lucas Lima 
 #### Computer Science student at University of Brasilia
-Full-stack web developer at CJR
+
 ```python
 from Fluminense import Fluminense_Supporter
 
@@ -13,12 +13,12 @@ class Lucas_Lima(Fluminense_Supporter):
     self._undergraduation= "Computer Science"
     self._location= "Ocidental City, Goias, Brazil 🇧🇷"
     self._interests= [
-      "Software Engineering",
       "Artificial Intelligence",
-      "Web Development",
-      "Competitive Programming",
+      "Software Engineering",
       "DevOps",
       "Data Science",
+      "Competitive Programming",
+      "Web Development",
       "Graphics Computation",
     ]
     self._programming_languages= [
@@ -52,8 +52,9 @@ Technologies I use every day or study:
   
   <br/>
   <p></p>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   
   <br/>
@@ -62,6 +63,7 @@ Technologies I use every day or study:
   <img align="center" alt="html5" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
   <br/>
   <p></p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
