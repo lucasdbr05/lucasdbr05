@@ -31,7 +31,6 @@ class Lucas_Lima(Fluminense_Supporter):
       "Go",
       "R",
     ]
-    self._codeforces= "lucasg05"
 ```
 
 <br>
