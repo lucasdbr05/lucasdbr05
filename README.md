@@ -16,8 +16,8 @@ class Lucas_Lima(Fluminense_Supporter):
       "Artificial Intelligence",
       "Software Engineering",
       "DevOps",
-      "Data Science",
       "Competitive Programming",
+      "Data Science",
       "Web Development",
       "Graphics Computation",
     ]
@@ -29,6 +29,7 @@ class Lucas_Lima(Fluminense_Supporter):
       "Python",
       "Java",
       "Go",
+      "Rust",
       "R",
     ]
 ```
