@@ -10,46 +10,46 @@ I'm a **Computer Science undergraduate** at the University of Brasília (UnB) pa
 #include "Fluminense.h"
 
 class Lucas_Lima : public Fluminense_Supporter {
-private:
-  std::string name;
-  int age;
-  std::string university;
-  std::string undergraduation;
-  std::string location;
-  std::vector<std::string> interests;
-  std::vector<std::string> programming_languages;
+  private:
+    std::string name;
+    int age;
+    std::string university;
+    std::string undergraduation;
+    std::string location;
+    std::vector<std::string> interests;
+    std::vector<std::string> programming_languages;
 
-public:
-  Lucas_Lima() : Fluminense_Supporter() {
-    name = "Lucas Gabriel de Oliveira Lima";
-    age = calculate_age(2005, "April", 8);
-    university = "University of Brasilia - UnB";
-    undergraduation = "Computer Science";
-    location = format_address("Brasília", "DF", "Brazil");
-    
-    interests = {
-      "Artificial Intelligence",
-      "Software Engineering",
-      "DevOps and Infraestructure",
-      "Competitive Programming",
-      "Data Science",
-      "Web Development",
-      "Graphics Computation",
-      "Blockchain Development"
-    };
-    
-    programming_languages = {
-      "TypeScript",
-      "JavaScript",
-      "C++",
-      "Python",
-      "Rust",
-      "C#",
-      "Java",
-      "Go",
-      "R"
-    };
-  }
+  public:
+    Lucas_Lima() : Fluminense_Supporter() {
+      name = "Lucas Gabriel de Oliveira Lima";
+      age = calculate_age(2005, "April", 8);
+      university = "University of Brasilia - UnB";
+      undergraduation = "Computer Science";
+      location = format_address("Brasília", "DF", "Brazil");
+      
+      interests = {
+        "Artificial Intelligence",
+        "Software Engineering",
+        "DevOps and Infraestructure",
+        "Competitive Programming",
+        "Data Science",
+        "Web Development",
+        "Graphics Computation",
+        "Blockchain Development"
+      };
+      
+      programming_languages = {
+        "TypeScript",
+        "JavaScript",
+        "C++",
+        "Python",
+        "Rust",
+        "C#",
+        "Java",
+        "Go",
+        "R"
+      };
+    }
 };
 ```
 
