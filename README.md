@@ -3,11 +3,10 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science undergraduate** at the University of Brasília (UnB) passionate about solving complex problems through technology. Currently working as a **Software Engineer** and as an **AI & LLM Researcher**.
+I'm a **Computer Science undergraduate** at the University of Brasília (UnB) passionate about solving complex problems through technology. 
 
 ```cpp
-#include <string>
-#include <vector>
+#include <bits/stdc++.h>
 #include "Fluminense.h"
 
 class Lucas_Lima : public Fluminense_Supporter {
