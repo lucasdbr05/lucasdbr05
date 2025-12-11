@@ -47,7 +47,7 @@ class Lucas_Lima : public Fluminense_Supporter {
         "C#",
         "Java",
         "Go",
-        "R"
+        "Solidity"
       };
     }
 };
