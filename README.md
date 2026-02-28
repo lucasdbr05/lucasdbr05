@@ -28,26 +28,24 @@ class Lucas_Lima : public Fluminense_Supporter {
       location = format_address("Brasília", "DF", "Brazil");
       
       interests = {
-        "Artificial Intelligence",
         "Software Engineering",
+        "Bitcoin Development",
+        "Artificial Intelligence",
         "DevOps and Infraestructure",
         "Competitive Programming",
         "Data Science",
         "Web Development",
-        "Graphics Computation",
-        "Blockchain Development"
+        "Graphics Computation"
       };
       
       programming_languages = {
+        "C++",
+        "Rust",
         "TypeScript",
         "JavaScript",
-        "C++",
         "Python",
-        "Rust",
         "C#",
-        "Java",
-        "Go",
-        "Solidity"
+        "Java"
       };
     }
 };
